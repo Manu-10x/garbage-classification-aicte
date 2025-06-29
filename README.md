@@ -72,7 +72,6 @@ We used a **pre-trained MobileNetV3Small** model with **data augmentation**, **f
 ## ❤️ Special Thanks
 
 - **AICTE + Shell + Edunet Foundation**
-- Mentor: [Your Mentor's Name]
-- Built with love by [Your Name] a.k.a. *Bangaram's Cutie* 😘
+- Mentor: dulari bhatt
 
 ---
